@@ -46,7 +46,7 @@ Benign==> Not Cancerous cells (Healthy)
 The "Class" is the Target or Dependent Variable whose values were modeled and predicted by the other variables (independent or predictor variables).  The goal is to predict if a cell is Malignant (prone to cancer) or Benign (not prone to cancer), So we used classification algorithms for the prediction which are KNeighborsClassifier and Support Vector Machine. 
 
 
-### Solution
+### Solution [Here](https://github.com/jimohola/Breast-Cancer-Detection-Using-Machine-Learning.git)
 
 
 
