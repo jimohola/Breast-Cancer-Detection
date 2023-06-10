@@ -43,7 +43,7 @@ Benign==> Not Cancerous cells (Healthy)
 
 ### Objectives 
 
-The "Class" is the Target or Dependent Variable whose values were modeled and predicted by the other variables (independent or predictor variables).  The goal is to predict if a cell is Malignant (prone to cancer) or Benign (not prone to cancer), So we used classification algorithms for the prediction which are KNeighborsClassifier and Support Vector Machine. 
+The "Class" is the Target or Dependent Variable whose values were modeled and predicted by the other variables (independent or predictor variables).  The goal is to predict if a cell is Malignant (prone to cancer) or Benign (not prone to cancer), So we used classification algorithms for the prediction which are KNeighborsClassifier and Support Vector Machine and also to compare the perfrormance of the models. 
 
 
 ### Solution [Here](Breast_Cancer_Detection_PART1.ipynb)
